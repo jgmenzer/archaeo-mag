@@ -7,7 +7,6 @@ Additionally, project will focus on depth estimation techniques.
 
 The project is in its early stages of development on Github, check back soon for updates.
 
-========
 Overview
 ========
 
@@ -17,3 +16,7 @@ Python 3.8 code for processing magnetometry data with a focus on depth estimatio
 
 Installation
 ============
+
+pip install archaeo-mag
+
+https://pypi.org/project/archaeo-mag/
